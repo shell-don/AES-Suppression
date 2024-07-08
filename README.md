@@ -1,5 +1,5 @@
 # erAESd
-Secure way to delete files from your device (MacOS or Linux) with AES-256. 
+Secure way to delete files from your device (MacOS or Linux) with AES-256.  
 
 ## Install
 
